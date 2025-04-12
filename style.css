@@ -236,6 +236,94 @@ main .fourth-windows .text h1{
     margin-bottom: 50px;
 }
 
+main .fifth-windows{
+    width: 1375px;
+    height: 585px;
+    background: none;
+    margin: auto;
+    position: relative;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+main .fifth-windows .white-back-text{
+    background: whitesmoke;
+    width: 570px;
+    height: 585px;
+    border-radius: 12px 0 0 12px;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+
+main .fifth-windows .white-back-text p{
+    position: absolute;
+}
+
+main .white-back-text h1{
+    width: 450px;
+    height: 65px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+main .white-back-text .second-p{
+    text-align: left;
+    margin-top: 20px;
+}
+
+main .white-back-text button{
+    width: 140px;
+    height: 55px;
+    background: none;
+    border: 2px solid black;
+    left: 0;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+main .fifth-windows .yellow-back-text{
+    width: 805px;
+    height: 585px;
+    background: orange;
+    border-radius: 0 12px 12px 0;
+    padding-top: 100px;
+    padding-left: 80px;
+    padding-right: 50px;
+    position: relative;
+}
+
+main .fifth-windows .yellow-back-text h1{
+    font-size: 30px;
+    text-align: left;
+}
+
+main .fifth-windows .yellow-back-text .person{
+    width: 562;
+    height: 80;
+    margin-top: 160px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+main .fifth-windows .yellow-back-text .person img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: absolute;
+    left: 80px;
+}
+
+main .fifth-windows .yellow-back-text .person .text h3{
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+/* footer */
+
 .footer{
     width: 100%;
     height: 420px;
