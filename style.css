@@ -14,7 +14,6 @@ header nav{
     padding-top: 15px;
     padding-left: 32px;
     display: flex;
-    position: fixed;
 }
 
 nav .logo{
